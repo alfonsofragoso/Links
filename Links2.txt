@@ -200,5 +200,5 @@
   "SPE-195372-MS.pdf": "https://doi.org/10.2118/195372-MS",
   "SPE-209281-MS.pdf": "https://doi.org/10.2118/209281-MS",
   "studioSL_help_2025.0327.pdf": "studioSL Help",
-  "SPE-0516-0022-JPT: "https://doi.org/10.2118/0516-0022-JPT"
+  "SPE-0516-0022-JPT": "https://doi.org/10.2118/0516-0022-JPT"
 }
