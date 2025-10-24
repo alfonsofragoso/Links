@@ -188,5 +188,6 @@
   "Short-Term Forecasting With Surveillance Models.pdf": "https://www.streamsim.com/support/tutorials/short-term-forecasting-surveillance-models",
   "Using Average Patterns in floodOPT.pdf": "https://www.streamsim.com/support/tutorials/using-average-patterns-floodopt",
   "Using WPatTool To Create fake Wells For Screening Geological Models.pdf": "https://www.streamsim.com/support/tutorials/using-wpattool-create-fake-wells-screening-geological-models",
-  "Which Is The Right Format To Import Files Into StudioSL Using AccuMap.pdf": "https://www.streamsim.com/support/tutorials/which-right-format-import-files-studiosl-using-accumap"
+  "Which Is The Right Format To Import Files Into StudioSL Using AccuMap.pdf": "https://www.streamsim.com/support/tutorials/which-right-format-import-files-studiosl-using-accumap";
+  "3dslman.pdf": "3DSL User Manual"
 }
