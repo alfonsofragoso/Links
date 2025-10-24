@@ -189,5 +189,15 @@
   "Using Average Patterns in floodOPT.pdf": "https://www.streamsim.com/support/tutorials/using-average-patterns-floodopt",
   "Using WPatTool To Create fake Wells For Screening Geological Models.pdf": "https://www.streamsim.com/support/tutorials/using-wpattool-create-fake-wells-screening-geological-models",
   "Which Is The Right Format To Import Files Into StudioSL Using AccuMap.pdf": "https://www.streamsim.com/support/tutorials/which-right-format-import-files-studiosl-using-accumap",
-  "3dslman.pdf": "3DSL User Manual"
+  "3dslman.pdf": "3DSL User Manual",
+  "spe-209679-ms.pdf": "https://doi.org/10.2118/209679-MS",
+  "SPE-84080-PA-P.pdf": "https://doi.org/10.2118/84080-PA",
+  "SPE-95402-PA-P.pdf": "https://doi.org/10.2118/95402-PA",
+  "SPE-166393-PA.pdf": "https://doi.org/10.2118/166393-PA",
+  "SPE-181374-MS.pdf": "https://doi.org/10.2118/181374-MS",
+  "SPE-185713-PA.pdf": "https://doi.org/10.2118/185713-PA",
+  "SPE-190871-PA.pdf": "https://doi.org/10.2118/190871-PA",
+  "SPE-195372-MS.pdf": "https://doi.org/10.2118/195372-MS",
+  "spe-209281-ms.pdf": "https://doi.org/10.2118/209281-MS",
+  "studioSL_help_2025.0327.pdf": "studioSL Help"
 }
